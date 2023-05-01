@@ -1,0 +1,8 @@
+Serial number: 55055; Name: Abdulali; Surname: Hamidov; YearOfBirth: 2005; Position: Student; AntroCard: Debit card; Salary: 350.0
+Serial number: 44044; Name: Cefer; Surname: Quliyev; YearOfBirth: 1981; Position: Businessman; AntroCard: notOwn; Salary: 2600.0
+Serial number: 33033; Name: Elcin; Surname: Hamidov; YearOfBirth: 1998; Position: Employee; AntroCard: Credit card; Salary: 1700.0
+Serial number: 22022; Name: Nazli; Surname: Kerimova; YearOfBirth: 2003; Position: Student; AntroCard: Debit card; Salary: 350.0
+Serial number: 62062; Name: Rahman; Surname: Balayev; YearOfBirth: 2004; Position: Student; AntroCard: Credit card; Salary: 350.0
+Serial number: 30030; Name: Vahid; Surname: Muradli; YearOfBirth: 2005; Position: Student; AntroCard: Debit card; Salary: 350.0
+Serial number: 40040; Name: Sanan; Surname: Nabizade; YearOfBirth: 2004; Position: Student; AntroCard: Debit card; Salary: 350.0
+Serial number: 11011; Name: Ryhel; Surname: Babasov; YearOfBirth: 2005; Position: Student; AntroCard: Credit card; Salary: 350.0
